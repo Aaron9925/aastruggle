@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bridge Zeng studying in USTC
+- 👋 Hi, I’m Bridge studying in USTC
 - 👀 I’m interested in travel and billiards.
 - 🌱 I’m currently learning SDN.
 - 💞️ I’m looking to collaborate on ...
